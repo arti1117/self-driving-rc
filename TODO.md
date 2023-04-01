@@ -23,11 +23,11 @@
 
 ### 1. Localization
 
-    1)
+1)
 
 ### 2. Object Detection
 
-    1)
+1)
 
 ----
 
