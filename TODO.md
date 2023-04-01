@@ -17,7 +17,7 @@
 
 ### 2. Networking
 
-1) 
+1)
 
 ## Software
 
