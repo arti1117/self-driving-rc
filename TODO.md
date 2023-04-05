@@ -15,11 +15,11 @@
 5) Wireless LAN and Bluetooth
     - [Intel Dual Band Wireless AC-8265](https://www.amazon.com/Intel-Dual-Band-Wireless-Ac-8265/dp/B01MZA1AB2/ref=sr_1_3?crid=1EUJXA9R7RF5J&keywords=Intel+Dual+Band+Wireless+AC-8265&qid=1680478205&sprefix=intel+dual+band+wireless+ac-8265%2Caps%2C276&sr=8-3)
 6) Camera and Lens
-    - [LOGITECH C270 WebCam](https://smartstore.naver.com/atonix/products/5845951524)
+    - [Logitech C270 WebCam](https://smartstore.naver.com/atonix/products/5845951524)
 7) Global Positioning System
-    - []()
+    - [HiLetgo VK172 G-Mouse USB GPS](https://www.amazon.com/HiLetgo-G-Mouse-GLONASS-Receiver-Windows/dp/B01MTU9KTF/ref=sr_1_3?crid=13VUDV4H022VI&keywords=gps+usb&qid=1680712927&sprefix=gps+us%2Caps%2C378&sr=8-3)
 8) Light Detection and Ranging
-    - []()
+    - [Slamtec RPLIDAR A1](https://www.amazon.com/Slamtec-RPLIDAR-Scanning-Avoidance-Navigation/dp/B07TJW5SXF/ref=sr_1_3?crid=3TZ3UNYXM2HF&keywords=lidar&qid=1680712878&sprefix=lid%2Caps%2C311&sr=8-3)
 
 ### 2. Networking
 
