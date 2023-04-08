@@ -21,6 +21,7 @@
 8) Light Detection and Ranging
     - [Slamtec RPLIDAR A1](https://www.amazon.com/Slamtec-RPLIDAR-Scanning-Avoidance-Navigation/dp/B07TJW5SXF/ref=sr_1_3?crid=3TZ3UNYXM2HF&keywords=lidar&qid=1680712878&sprefix=lid%2Caps%2C311&sr=8-3)
 9) Others
+    - [Seoul Mobility Show 2023](http://www.motorshow.or.kr/main/main.php)
     - [How to Use a 3D Printer for Free](https://www.korea.kr/news/reporterView.do?newsId=148861861)
 
 ### 2. Networking
