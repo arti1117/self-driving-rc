@@ -10,7 +10,6 @@
 
 ### 4. 3D baseboard
 
-
 ## 2. Test
 
 ### 1. Battery power and lifetime
