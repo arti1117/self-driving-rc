@@ -1,0 +1,25 @@
+Main Board: 140 ~ 160 (side column)  x 250 x 20 mm
+
+Front Support Columns Positions: 2.75 x 0 ~ (85) ~ 11.25 x 0 x 85
+
+Front Support Columns Size:
+
+Back Support Columns Positions: 3.45 x 250 ~ (71) ~ 10.55 x 250 x 110
+
+Back Support Columns Size:
+
+Motor Heat Vent Positions: 16 x 51
+
+Motor Heat Vent Size: 26 x 30
+
+Jetson Positions:
+
+Jetson Sizes: 120 x 90 x 40 ~ 60
+
+Battery Positions:
+
+Battery Sizes:
+
+Wall Sizes: 60 degree, height: 60
+
+Side Support Hole Positions: 0 x 150 
